@@ -1,0 +1,6 @@
+{
+  "name": "Coco Beauty Bar Casablanca",
+  "description": "Premium beauty salon and coiffure space in Casablanca, Morocco. Book your manicures, blowdries, facials, and wellness rituals online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
